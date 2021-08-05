@@ -47,6 +47,10 @@ A powerful multi-featured chat application built on top of Google's Android &amp
   $ npm run dev
   ```
   
+## Contributing Guidelines
+- To contribute to this project, ```fork``` and ```clone``` this repository using standard git commands or GUI tools.
+- Unless specified explicitly, you can directly create a pull request (PR) to the master branch of this respository.
+
 ## Contributors
 
 * [Aditya Pandey](https://github.com/ydasc815)
